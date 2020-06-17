@@ -5,6 +5,7 @@ README.md:
 	echo "# Unix Final Project: Bash, Make, Git, and GitHub" >> README.md
 	echo "" >> README.md
 	date >> README.md
+	echo "" >> README.md
 	echo -n "Number of lines in guessinggame.sh: " >> README.md 
 	wc -l < guessinggame.sh >> README.md
 
